@@ -1,0 +1,20 @@
+{
+  "name": "allisonchains",
+  "version": "0.1.0",
+  "description": "trying out LangChain",
+  "main": "index.js",
+  "type": "module",
+  "moduleResolution": "node16",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "hnswlib-node": "^1.4.2",
+    "langchain": "^0.0.72",
+    "netlify": "^13.1.6",
+    "prompt-sync": "^4.2.0"
+  }
+}

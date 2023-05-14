@@ -1,0 +1,4 @@
+{
+  "txtFilename": "everything",
+  "VECTOR_STORE_PATH": "./everything.index"
+}
